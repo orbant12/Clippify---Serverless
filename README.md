@@ -23,19 +23,18 @@ Welcome to Clippify, a comprehensive and multifaceted project that showcases my 
 
 ---
 
-## Technologies Used
-
-- FFmpeg
-- REACT
-- Python
-- TensorFlow
-- Numpy
-- Pandas
-- Stripe API
-- OpenAI API
-- Firebase Firestore
-- Firebase Authentication
-- Firebase Storage
+## 📦 Technologies Used
+- `FFmpeg`
+- `REACT`
+- `Python`
+- `TensorFlow`
+- `Numpy`
+- `Pandas`
+- `Stripe API`
+- `OpenAI API`
+- `Firebase Firestore`
+- `Firebase Authentication`
+- `Firebase Storage`
   
 ---
 
