@@ -6,6 +6,7 @@ Welcome to Clippify, a comprehensive and multifaceted project that showcases my 
 - **Video Trimming**: See your code changes in real time.
 - **Transcript Export**: Separate editors for HTML, CSS, and JavaScript with clear syntax and numbering.
 - **AI-Chatbot with Transcript Access**: Your code is saved in local storage, so you won't lose your work.
+- **Note Taking - Rich Text Editor**: Your code is saved in local storage, so you won't lose your work.
 - **Storage**: Easily expand or collapse code sections as you work.
 
 ---
