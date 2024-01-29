@@ -14,6 +14,8 @@ Welcome to Clippify, a comprehensive and multifaceted project that showcases my 
 ## 📦 Technologies Used
 - `FFmpeg`
 - `REACT`
+- `Node`
+- `Express`
 - `Python`
 - `TensorFlow`
 - `Numpy`
