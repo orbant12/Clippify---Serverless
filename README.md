@@ -2,24 +2,11 @@
 
 Welcome to Clippify, a comprehensive and multifaceted project that showcases my mastery of various technologies and skills relevant to the tech industry. This README is designed to provide a detailed insight into the key components and accomplishments of this project, specifically tailored for a tech job recruiter.
 
-### Table of Contents
-1. [Technologies Used](#technologies-used)
-2. [Key Achievements](#key-achievements)
-3. [Project Components](#project-components)
-    - [1. FFMPEG Syntax and Media Manipulation](#ffmpeg-syntax-and-media-manipulation)
-    - [2. Self-trained Neural Network for Video Transcript Extraction](#self-trained-neural-network-for-video-transcript-extraction)
-    - [3. OpenAI API Implementation](#openai-api-implementation)
-    - [4. Authentication and User Data Flow with Firebase](#authentication-and-user-data-flow-with-firebase)
-    - [5. Live Database with Firebase Changes on Snapshot](#live-database-with-firebase-changes-on-snapshot)
-    - [6. Lexical Editor for Rich Text Editor State Management](#lexical-editor-for-rich-text-editor-state-management)
-    - [7. Stripe API Integration](#stripe-api-integration)
-    - [8. Plain CSS styling from scratch](#css-styling)
-    - [9. Own Policies and Terms of Use](#own-policies-and-terms-of-use)
-4. [Getting Started](#getting-started)
-5. [Usage and Demos](#usage-and-demos)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact Information](#contact-information)
+## 🚀 Key Features
+- **Video Trimming**: See your code changes in real time.
+- **Transcript Export**: Separate editors for HTML, CSS, and JavaScript with clear syntax and numbering.
+- **AI-Chatbot with Transcript Access**: Your code is saved in local storage, so you won't lose your work.
+- **Storage**: Easily expand or collapse code sections as you work.
 
 ---
 
